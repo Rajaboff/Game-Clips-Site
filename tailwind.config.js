@@ -3,7 +3,7 @@ module.exports = {
     theme: {
         extend: {
             opacity: ['disabled'],
-            backgroundColor: ['disabled']
+            backgroundColor: ['disabled'],
         },
     },
     plugins: [],
